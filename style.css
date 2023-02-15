@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(187, 187, 187);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 40px;
+}
+
+img {
+  margin: 50px;
+  border-radius: 40px;
+  margin-top: 15px;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+.WebImage {
+  margin-left: 100px;
+}
+
+.Definition {
+  width: 800px;
+}
+.WebDevelopment-parag {
+  width: 200px;
+  margin-left: 5%;
+  display: inline-block;
+}
+
+.DataScience-parag {
+  width: 200px;
+  margin-left: 12%;
+  display: inline-block;
+}
+
+.EthicalHacking-parag {
+  width: 200px;
+  display: inline-block;
+  margin-left: 14%;
+}
+
+.Conclusion {
+  width: 800px;
+}
